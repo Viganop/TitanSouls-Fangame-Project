@@ -3,7 +3,7 @@
   "%Name":"Main",
   "name":"Main",
   "option_audio_error_behaviour":false,
-  "option_author":"",
+  "option_author":"VGNX STUDIOS",
   "option_collision_compatibility":false,
   "option_copy_on_write_enabled":false,
   "option_draw_colour":4294967295,

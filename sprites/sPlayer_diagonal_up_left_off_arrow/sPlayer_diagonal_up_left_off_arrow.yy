@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Player Base Off Arrow",
-    "path":"folders/Sprites/Player Base Off Arrow.yy",
+    "path":"folders/Sprites/Player Off Arrow/Player Base Off Arrow.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
